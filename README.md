@@ -4,7 +4,7 @@
 
 1. Enter the screen session 
 
---> screen
+`screen`
 
 2. Paste one shot one kill command
 
